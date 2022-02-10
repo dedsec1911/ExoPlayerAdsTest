@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExoPlayer Ads Test App</string>
+
+    <string name="btn_play">PLAY\n(with ads)</string>
+</resources>
